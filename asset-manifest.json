@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/food-searching-react/static/css/main.5e624629.chunk.css",
+    "main.js": "/food-searching-react/static/js/main.cc44f862.chunk.js",
+    "main.js.map": "/food-searching-react/static/js/main.cc44f862.chunk.js.map",
+    "runtime-main.js": "/food-searching-react/static/js/runtime-main.d755deda.js",
+    "runtime-main.js.map": "/food-searching-react/static/js/runtime-main.d755deda.js.map",
+    "static/js/2.1ce0e1fe.chunk.js": "/food-searching-react/static/js/2.1ce0e1fe.chunk.js",
+    "static/js/2.1ce0e1fe.chunk.js.map": "/food-searching-react/static/js/2.1ce0e1fe.chunk.js.map",
+    "index.html": "/food-searching-react/index.html",
+    "static/css/main.5e624629.chunk.css.map": "/food-searching-react/static/css/main.5e624629.chunk.css.map",
+    "static/js/2.1ce0e1fe.chunk.js.LICENSE.txt": "/food-searching-react/static/js/2.1ce0e1fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d755deda.js",
+    "static/js/2.1ce0e1fe.chunk.js",
+    "static/css/main.5e624629.chunk.css",
+    "static/js/main.cc44f862.chunk.js"
+  ]
+}
